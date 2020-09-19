@@ -1,0 +1,10 @@
+img{
+    height: 200px;
+    width: 300px;
+}
+.owl-theme .owl-dots .owl-dot span{
+    width: 30px;
+}
+.owl-theme .owl-nav [class*=owl-]{
+    font-size: 35px !important;
+}
